@@ -1,4 +1,4 @@
-My name is Zoee and I have a passion for building and learning new things, I work as a fullstack web developer and indie game developer. Although I am proficient in many aspects of software development, my prefered role is programmer.
+My name is Zoee and I have a passion for building and learning new things, I work as a fullstack web developer and indie game developer. Although I am proficient in many aspects of software development, my preferred role is programmer.
 
 🌍 [Homepage](https://zoeetrope.com) \
 💼 [LinkedIn](https://www.linkedin.com/in/zoeesilcock/)
@@ -14,6 +14,6 @@ My name is Zoee and I have a passion for building and learning new things, I wor
 * Neovim for code editing.
 
 ## Learning
-* Zig for learning low level and game development.
+* Zig for low level and game development.
 * Rust for building tools.
 * Godot as an open alternative to Unity.
