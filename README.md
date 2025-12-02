@@ -9,11 +9,10 @@ My name is Zoee and I have a passion for building and learning new things, I wor
 * Understanding user requirements.
 
 ## Working with
-* Javascript, NodeJS, React, HTML and CSS for web development.
+* JavaScript/TypeScript, NodeJS, React, HTML and CSS for web development.
 * C# and Unity for game development.
 * Neovim for code editing.
 
 ## Learning
-* Zig for low level and game development.
-* Rust for building tools.
+* Zig to strengthen my low level skills and for coding games from scratch .
 * Godot as an open alternative to Unity.
